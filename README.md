@@ -6,7 +6,7 @@
 
 #### 1. 浏览器相关
 
-- [WebKit技术内幕《一》浏览器内核]: https://github.com/Hjw52/Blog/issues/1
+- [WebKit技术内幕《一》浏览器内核](https://github.com/Hjw52/Blog/issues/1 )
 
 #### 2. 网络协议
 
