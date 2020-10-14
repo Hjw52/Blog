@@ -2,7 +2,7 @@
 
 ### 前端之路
 
-一个**精通各种代码**Ctrl C+V的代码盲人。![img](file:///C:\Users\DELL\AppData\Local\Temp\SGPicFaceTpBq\17772\95570200.png)
+一个**精通各种语言**Ctrl C+V的代码盲人。![img](file:///C:\Users\DELL\AppData\Local\Temp\SGPicFaceTpBq\17772\95570200.png)
 
 
 
