@@ -1,4 +1,4 @@
-![image-20201013212425027](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20201013212425027.png)
+![image-20201013212425027](https://github.com/Hjw52/Blog/blob/master/image/image-20201013212425027.png?raw=true)
 
 ### 前端之路
 
