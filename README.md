@@ -36,6 +36,7 @@
 - 你不知道的JavaScript《三》对象与原型链
 - 
 - [JavaScript手写系列：手写一个new实现](https://github.com/Hjw52/Blog/issues/6)
+- [JavaScript手写系列：call、apply、bind源码解析](https://github.com/Hjw52/Blog/issues/11)
 
 #### 4. CSS探索
 
