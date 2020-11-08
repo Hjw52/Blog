@@ -32,8 +32,8 @@
 #### 3. JavaScript基础
 
 - [你不知道的JavaScript《一》词法作用域](https://github.com/Hjw52/Blog/issues/9)
-- 你不知道的JavaScript《二》this语法
-- 
+- [你不知道的JavaScript《二》this语法](https://github.com/Hjw52/Blog/issues/10)
+- 你不知道的JavaScript《二》对象与原型链
 - 
 - [JavaScript手写系列：手写一个new实现](https://github.com/Hjw52/Blog/issues/6)
 
@@ -46,7 +46,7 @@
 
 #### 5. 前端工程化
 
-- webpack系列
+- Webpack系列
 
 #### 6. Vue系列
 
