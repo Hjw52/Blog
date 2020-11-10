@@ -33,7 +33,8 @@
 
 - [你不知道的JavaScript《一》词法作用域](https://github.com/Hjw52/Blog/issues/9)
 - [你不知道的JavaScript《二》this语法](https://github.com/Hjw52/Blog/issues/10)
-- 你不知道的JavaScript《三》对象与原型链
+- [你不知道的JavaScript《三》对象与原型链](https://github.com/Hjw52/Blog/issues/12)
+- 
 - 
 - [JavaScript手写系列：手写一个new实现](https://github.com/Hjw52/Blog/issues/6)
 - [JavaScript手写系列：call、apply、bind源码解析](https://github.com/Hjw52/Blog/issues/11)
