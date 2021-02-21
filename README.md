@@ -62,6 +62,10 @@
 
 - [Node个人笔记](https://github.com/Hjw52/Node_learn)
 
+#### 9. 其他
+
+- [Axios源码阅读笔记](https://github.com/Hjw52/Blog/issues/14)
+
 **暂定这些内容，正在努力创作中...**
 
 
